@@ -1,0 +1,58 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Expertises
+
+  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
+
+
+  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### Master in Arts
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2008-2010
+  - content: >
+      #### Master in Arts
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2008-2010
+  - content: >
+      #### Master in Arts
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2008-2010
+  - content: >
+      #### Master in Arts
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2008-2010
+
+experience:
+  - content: >
+      #### Kairos Club
+
+      Full stack developer 
+    time: Nov 2020-Present
+  - content: >
+      #### Le Signe 
+
+      Built an add-on which handles the international competition organized by "Le Centre Nationale Du Graphisme" of France
+    time: July 2020 - October 2020
+  - content: >
+      #### Khbich
+
+      FullStack developer using Python, Vue.js 
+    time: 2005-2010
+  - content: >
+      #### LexCorp 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2001-2005
