@@ -2,8 +2,13 @@
 enable: true
 topTitle: Hello, I am Abderrahmane
 content: |
-  # I am here to bring ideas to life
-  Enjoy team diversity and increase their networks among others people in various fields by
+  # freelance FullStack Developer
+  I create fast, clean, and maintainable web applications, 
+  ready to scale from few users to thousands.
+
+
+
+
 buttonName: Contact me
 buttonURL: contact
 image: images/hero/2960351.jpg
